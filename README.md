@@ -2,6 +2,9 @@
 
 ## Introduction
 Our SDK provides a wide range of both utility and client-facing features that will save time and make development easier than ever with APS Card. It's built purely on Apple Core Location and Core Bluetooth technologies and is 100% iBeacon compatible.
+## Requirements
+* iOS 8.0+
+* Xcode 8
 ## Installation
 ### CocosPods
 Add ```pod APSCardSDK``` to your Podfile and run ```pod install```. More on [CocoaPods here](http://cocospods.com).
